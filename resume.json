@@ -42,6 +42,7 @@
       ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
       "institution": "Instituto Tecnológico de Culiacan",
@@ -49,12 +50,15 @@
       "studyType": "Bachelor",
       "startDate": "2009-09-27",
       "endDate": "2013-12-21",
+      "gpa": "",
       "courses": [
         "MongoDB for Node.js Developers",
         "MongoDB for Java Developers"
       ]
     }
   ],
+  "awards": [],
+  "publications": [],
   "skills": [
     {
       "name": "Web Development",
@@ -70,6 +74,7 @@
     },
     {
       "name": "Database",
+      "level": "",
       "keywords": [
         "SQL Server",
         "MongoDB",
@@ -78,6 +83,7 @@
     },
     {
       "name": "Methodologies",
+      "level": "",
       "keywords": [
         "SCRUM"
       ]
@@ -92,5 +98,7 @@
       "language": "Spanish",
       "fluency": "native"
     }
-  ]
+  ],
+  "interests": [],
+  "references": []
 }
